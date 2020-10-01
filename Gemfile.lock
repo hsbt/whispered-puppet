@@ -14,7 +14,7 @@ GEM
       facter (~> 1.6)
       hiera (~> 1.0)
       rgen (~> 0.6.5)
-    rake (10.1.1)
+    rake (13.0.1)
     rgen (0.6.6)
 
 PLATFORMS
